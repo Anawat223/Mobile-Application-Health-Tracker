@@ -29,7 +29,7 @@
 	4. เข้าไปที่โปรแกรม Visual Studio Code แล้วค้นหา Dart Extension แล้วทำการติดตั้ง Extension
 	5. ตรวจสอบสถานะของการติดตั้ง Visual Studio Code และ Dart Extension โดยเข้าไปที่ Command prompt แล้วพิมพ์คำสั่ง ``flutter doctor``
 5. การติดตั้งส่วนจัดการเบื้องหลัง
-	1. Clone github project: [https://github.com/MydudeEiEi/Health-Tracker.git](https://github.com/MydudeEiEi/Health-Tracker.git "https://github.com/MydudeEiEi/Health-Tracker.git")
+	1. Clone github project: [https://github.com/Anawat223/Mobile-Application-Health-Tracker.git](https://github.com/Anawat223/Mobile-Application-Health-Tracker.git "https://github.com/Anawat223/Mobile-Application-Health-Tracker.git")
 	2. เปิดโปรแกรม Visual Studio Code
 	3. เปิดโปรเจคที่ clone มาผ่านโปรแกรม Visual Studio Code
 	4. รันคำสั่ง ``flutter pub get``
